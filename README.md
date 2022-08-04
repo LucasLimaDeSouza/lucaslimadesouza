@@ -1,4 +1,3 @@
-### Hi there 👋
  <h1>Olá, Eu Sou O Lucas..</h1>
   
 - 🖥️ Desenvolvedor Frontend
