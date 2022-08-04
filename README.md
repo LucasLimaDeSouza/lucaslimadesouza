@@ -1,5 +1,5 @@
 ### Hi there 👋
- <h1>Olá, Eu Sou O Lucas</h1>
+ <h1>Olá, Eu Sou O Lucas..</h1>
   
 - 🖥️ Desenvolvedor Frontend
 - ✍🏾 Estudando: React.Js e Bootstrap
