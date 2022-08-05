@@ -1,5 +1,6 @@
  <h1>Olá, Eu Sou O Lucas..</h1>
-  
+ 
+- 🇧🇷 
 - 🖥️ Desenvolvedor Frontend
 - ✍🏾 Estudando: React.Js e Bootstrap
 - 🙍🏾‍♂️ Pronomes: Ele/Dele
