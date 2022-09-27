@@ -2,7 +2,7 @@
  
 - 🇧🇷 
 - 🖥️ Desenvolvedor Frontend
-- ✍🏾 Estudando: React.Js
+- ✍🏾 Estácio - Software Engineer
 - 🙍🏾‍♂️ Pronomes: Ele/Dele
 
 <div align="center">
