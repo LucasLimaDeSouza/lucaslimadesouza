@@ -2,7 +2,7 @@
  
 - 🇧🇷 
 - 🖥️ Desenvolvedor Frontend
-- ✍🏾 Estácio - Software Engineer
+- ✍🏾 Estácio - Engenharia de Software
 - 🙍🏾‍♂️ Pronomes: Ele/Dele
 
 <div align="center">
