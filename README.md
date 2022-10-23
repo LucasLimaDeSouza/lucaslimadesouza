@@ -1,14 +1,19 @@
  <h1>Olá, Eu Sou O Lucas..</h1>
  
-- 🇧🇷 
-- 🖥️ Desenvolvedor Frontend
-- ✍🏾 Estácio - Engenharia de Software
-- 🙍🏾‍♂️ Pronomes: Ele/Dele
+<div style="display: flex;">
+  <ul>
+     <li> 🇧🇷 </li>
+     <li> 🖥️ Desenvolvedor Frontend </li>
+     <li> ✍🏾 Estácio - Engenharia de Software </li>
+     <li> 🙍🏾‍♂️ Pronomes: Ele/Dele </li>
+  </ul>
+</div>
 
 <div align="center">
   <a href="https://github.com/lucaslimadesouza">
-  <img width="400px" height="200em" src="https://github-readme-stats.vercel.app/api?username=lucaslimadesouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="400px" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimadesouza&layout=compact&langs_count=7&theme=dark"/>
+  <img width="400px" height="200em" src="https://github-readme-stats.vercel.app/api?username=lucaslimadesouza&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img width="400px" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimadesouza&layout=demo&langs_count=7&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
