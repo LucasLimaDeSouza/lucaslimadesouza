@@ -5,7 +5,7 @@
      <li> 🇧🇷 </li>
      <li> 🖥️ Desenvolvedor Frontend </li>
      <li> ✍🏾 Estácio - Engenharia de Software </li>
-     <li> 🙍🏾‍♂️ Pronomes: Ele/Dele </li>
+     <li> 🙍🏾‍♂️ Cidade: São Gonçalo/Itaboraí </li>
   </ul>
 </div>
 
