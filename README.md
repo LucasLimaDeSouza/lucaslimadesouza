@@ -1,11 +1,12 @@
- <h1>Olá, Eu Sou O Lucas..</h1>
+ <h1>Lucas Lima de Souza</h1>
  
 <div style="display: flex;">
   <ul>
      <li> 🇧🇷 </li>
-     <li> 🖥️ Desenvolvedor Frontend </li>
+     <li> Cidade: Rio de Janeiro</li>
+     <li> Desenvolvedor FullStack </li>
+     <li> Desenvolvedor Android </li>
      <li> ✍🏾 Estácio - Engenharia de Software </li>
-     <li> 🙍🏾‍♂️ Cidade: São Gonçalo</li>
   </ul>
 </div>
 
