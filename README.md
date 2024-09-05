@@ -5,7 +5,7 @@
      <li> 🇧🇷 </li>
      <li> Cidade: Rio de Janeiro</li>
      <li> Desenvolvedor FullStack </li>
-     <li> Desenvolvedor Android </li>
+     <li> Desenvolvedor Mobile </li>
      <li>✍🏾 Engenharia de Software - Estácio</li>
   </ul>
 </div>
