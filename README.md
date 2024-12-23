@@ -24,8 +24,11 @@
    <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <br/>
+   <h2>Tecnologias e Linguagens dos Softwares</h2>
+  <a href="https://github.com/lucaslimadesouza">
+  <img width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimadesouza&layout=compact&langs_count=7&theme=onedark"/>
 </div>
-  <br/>
+   
 <a href="https://web.whatsapp.com/send?phone=5521981055096" target="_blank"><img class="social-img" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
 
 
