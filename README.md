@@ -3,10 +3,10 @@
 <div style="display: flex;">
   <ul>
      <li> 🇧🇷 </li>
-     <li> Cidade: Rio de Janeiro</li>
+     <li> Cidade: São Gonçalo - RJ</li>
      <li> Desenvolvedor Android </li>
      <li> Desenvolvedor FullStack </li>
-     <li>✍🏾 Engenharia de Software - Estácio</li>
+     <li>✍🏾 Tecnologia em Sistemas de Computação - UFF</li>
   </ul>
 </div>
    
@@ -26,9 +26,10 @@
   <br/>
    <h2>Tecnologias e Linguagens dos Softwares</h2>
   <a href="https://github.com/lucaslimadesouza">
-  <img width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimadesouza&layout=compact&langs_count=6&theme=onedark"/>
+  <img width="40%" height="20%" src="https://github-stats-extended.vercel.app/api/top-langs?username=LucasLimaDeSouza&hide_title=true&langs_count=3&theme=transparent"/>
+
 </div>
-   
+<h2>Contato</h2>
 <a href="https://web.whatsapp.com/send?phone=5521981055096" target="_blank"><img class="social-img" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
 
 
